@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build",
+  "command": "/usr/bin/g++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"v9_ball_detector\\\" -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/include -I/home/robotis/catkin_ws/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/vision-utils/include -I/home/robotis/catkin_ws/src/ROBOTIS-Math/robotis_math/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/include/opencv-3.3.1-dev -I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/usr/include/eigen3 -I/usr/lib/x86_64-linux-gnu/cmake/yaml-cpp/../../../../include  -g   -std=c++11 -march=native -o CMakeFiles/v9_amcl.dir/src/v9_amcl.cpp.o -c /home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_amcl.cpp",
+  "file": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_amcl.cpp"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build",
+  "command": "/usr/bin/g++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"v9_ball_detector\\\" -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/include -I/home/robotis/catkin_ws/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/vision-utils/include -I/home/robotis/catkin_ws/src/ROBOTIS-Math/robotis_math/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/usr/include/eigen3 -I/usr/lib/x86_64-linux-gnu/cmake/yaml-cpp/../../../../include  -g   -std=c++11 -march=native -o CMakeFiles/v9_ball_detector_node.dir/src/v9_ball_detector_node.cpp.o -c /home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_ball_detector_node.cpp",
+  "file": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_ball_detector_node.cpp"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build",
+  "command": "/usr/bin/g++   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"v9_ball_detector\\\" -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/include -I/home/robotis/catkin_ws/devel/include -I/home/robotis/catkin_ws/src/riset_lokalisasi/vision-utils/include -I/home/robotis/catkin_ws/src/ROBOTIS-Math/robotis_math/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/usr/include/eigen3 -I/usr/lib/x86_64-linux-gnu/cmake/yaml-cpp/../../../../include  -g   -std=c++11 -march=native -o CMakeFiles/v9_ball_detector_node.dir/src/v9_ball_detector.cpp.o -c /home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_ball_detector.cpp",
+  "file": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/src/v9_ball_detector.cpp"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/gmock/src/gmock_main.cc",
+  "file": "/usr/src/gmock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/gtest/src/gtest_main.cc",
+  "file": "/usr/src/gtest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/gtest/gtest",
+  "command": "/usr/bin/g++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+}
+]

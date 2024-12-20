@@ -1,0 +1,2 @@
+/usr/bin/ar qc devel/lib/libv9_amcl.a  CMakeFiles/v9_amcl.dir/src/v9_amcl.cpp.o
+/usr/bin/ranlib devel/lib/libv9_amcl.a

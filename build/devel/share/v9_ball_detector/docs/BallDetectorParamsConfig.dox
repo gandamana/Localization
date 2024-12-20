@@ -1,0 +1,17 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~score" : \b [int] Ball Histogram Score min: 0, default: 20, max: 2000
+- \b "~cost" : \b [int] Circle Fitting Cost min: 0, default: 20, max: 1000
+- \b "~num_particles" : \b [int] Number of particles min: 50, default: 100, max: 1000
+- \b "~range_var" : \b [double] Range Variance min: 0.1, default: 40000.0, max: 99999.0
+- \b "~beam_var" : \b [double] Beam Variance min: 0.1, default: 7225.0, max: 99999.0
+- \b "~gy_var" : \b [double] Gyro Direction Variance min: 0.1, default: 1225.0, max: 99999.0
+- \b "~alpha1" : \b [double] Alpha1 Gain for Motion Model min: 0.0, default: 1.0, max: 100.0
+- \b "~alpha2" : \b [double] Alpha2 Gain for Motion Model min: 0.0, default: 1.0, max: 100.0
+- \b "~alpha3" : \b [double] Alpha3 Gain for Motion Model min: 0.0, default: 1.0, max: 100.0
+- \b "~alpha4" : \b [double] Alpha4 Gain for Motion Model min: 0.0, default: 1.0, max: 100.0
+- \b "~short_term_rate" : \b [double] Short Term Rate min: 0.0, default: 1.0, max: 100.0
+- \b "~long_term_rate" : \b [double] Long Term Rate min: 0.0, default: 1.0, max: 100.0
+

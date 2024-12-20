@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robotis/catkin_ws/src/riset_lokalisasi/v9-ball-detector/build/devel/setup.sh
